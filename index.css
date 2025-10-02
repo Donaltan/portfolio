@@ -339,3 +339,7 @@ button[type=submit] {
     padding-left: 100px; /* indent the list */
     color: var(--muted);
 }
+
+.hero .intro .position p{
+    color: #7008E7;
+}
